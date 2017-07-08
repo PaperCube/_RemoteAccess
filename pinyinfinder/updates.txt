@@ -1,14 +1,15 @@
 file.format.version=1.0
 
-latest=26
+latest=30
 
 [version]
-26,0.8-beta2
-attribute/url=https://git.oschina.net/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/0.8-beta2.apk
--第二个测试版
---修正一些错误
+30,17.07
+attribute/url=https://git.oschina.net/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v17.07.apk
+--剔除了不正常的权限申请
+--漏洞修复
 -
--真的还有人在用这个应用吗……
+-如果哪位同学有新高一、新高二、新高三的分班情况，并且希望将名单加入该应用，请联系imzhy@hotmail.com或QQ 631237080，谢谢
+
 
 
 [version]
