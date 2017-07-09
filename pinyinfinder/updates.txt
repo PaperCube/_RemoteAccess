@@ -1,15 +1,21 @@
 file.format.version=1.0
 
-latest=30
+latest=31
+
+[version]
+31,17.07.1
+attribute/url=https://git.oschina.net/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v17.07.1.apk
+--全拼支持 - 使用完整拼音来检索姓名。（请在相邻汉字的拼音之间用空格分隔）全拼检索同样支持通配符和终止符
+--更新了一条数据
+-
+-如果哪位同学有新高一、新高二、新高三的分班情况，并且希望将名单加入该应用，请联系imzhy@hotmail.com或QQ 631237080，谢谢
+
 
 [version]
 30,17.07
 attribute/url=https://git.oschina.net/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v17.07.apk
 --剔除了不正常的权限申请
 --漏洞修复
--
--如果哪位同学有新高一、新高二、新高三的分班情况，并且希望将名单加入该应用，请联系imzhy@hotmail.com或QQ 631237080，谢谢
-
 
 
 [version]
