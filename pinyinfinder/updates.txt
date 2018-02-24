@@ -1,6 +1,12 @@
 file.format.version=1.0
 
-latest=35
+latest=38
+
+[version]
+38,18.02.1
+attribute/url=https://gitee.com/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v18.02.1.apk
+--姓名匹配的地方会用颜色标出
+--你现在可以直接在应用内反馈/提出面基请求（我不会接受的 嘻嘻）。在选项菜单中
 
 [version]
 35,17.09
