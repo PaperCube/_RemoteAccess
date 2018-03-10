@@ -1,12 +1,17 @@
 file.format.version=1.0
 
-latest=38
+latest=39
+
+[version]
+39,18.03
+attribute/url=https://gitee.com/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v18.03.apk
+--错误修正
 
 [version]
 38,18.02.1
 attribute/url=https://gitee.com/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v18.02.1.apk
 --姓名匹配的地方会用颜色标出
---你现在可以直接在应用内反馈/提出面基请求（我不会接受的 嘻嘻）。在选项菜单中
+--你现在可以直接在应用的选项菜单中反馈
 
 [version]
 35,17.09
@@ -64,7 +69,7 @@ attribute/url=https://git.oschina.net/PaperCube/RemoteAccess/raw/master/pinyinfi
 [version]
 11,0.6.1
 attribute/url=https://git.oschina.net/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v0.6.1-fix.apk
--如果你有检索高二高三人员的需求，而又恰好有名单，请发邮件给我 
+-如果你有检索高二高三人员的需求，而又恰好有名单，请发邮件给我
 --漏洞修复
 --添加了一个图标
 
