@@ -1,6 +1,10 @@
 file.format.version=1.0
 
-latest=39
+latest=41
+
+[version]
+41,18.04
+-界面做出一些更改
 
 [version]
 39,18.03
