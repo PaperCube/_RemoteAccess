@@ -4,6 +4,7 @@ latest=41
 
 [version]
 41,18.04
+attribute/url=https://gitee.com/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v18.04.apk
 -界面做出一些更改
 
 [version]
