@@ -1,6 +1,11 @@
 file.format.version=1.0
 
-latest=41
+latest=42
+
+[version]
+42,18.04.1
+attribute/url=https://gitee.com/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v18.04.1.apk
+-添加了高一(2017届)的名单
 
 [version]
 41,18.04
