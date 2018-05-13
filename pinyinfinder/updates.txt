@@ -1,6 +1,12 @@
 file.format.version=1.0
 
-latest=42
+latest=43
+
+[version]
+43,18.04.2
+attribute/url=https://gitee.com/PaperCube/RemoteAccess/raw/master/pinyinfinder/files/v18.04.2.apk
+-修复了输入法遮挡底部通知的问题
+-修复了搜索高一班级时错误的班级不存在的提示
 
 [version]
 42,18.04.1
